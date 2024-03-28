@@ -37,7 +37,6 @@ cd face-recognition-database
 ```
 Run the script:
 ```bash
-Copy code
 python main.py
 ```
 Click the "Add Face" button in the GUI and follow the prompts to capture your face.
